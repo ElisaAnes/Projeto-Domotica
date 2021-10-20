@@ -2,7 +2,7 @@
 
 INTRODUCAO
 
-![](https://photos.google.com/photo/AF1QipMba0r7Z-iAz3su2MY2Dhxh3VH1ScHob6LBzDP-)
+
 
 Nos dias atuais o tempo está cada vez mais escasso, as pessoas querem estar em constante evolucao, sem "perder" seu tempo com tarefas de casa. Por isso, temos que adaptar nossa rotina da melhor forma possivel, fazendo uso de tecnologias que facilitam nosso dia a dia e fazem tarefas por nós. Com isso, existe a Domótica que é o conceito de ter uma casa inteligente, isso significa:
 

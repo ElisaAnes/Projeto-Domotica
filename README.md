@@ -8,4 +8,10 @@ Nos dias atuais o tempo está cada vez mais escasso, as pessoas querem estar em 
 - Acompanhar em tempo real alarmes e sensores de segurança de longe de casa: detectar incêndios, fuga de água e de gás, quebra de vidros e invasões. Precavindo qualquer tipo de acidente.
 - Controlar temperatura do ambiente.
 - Abrir e fechar janelas e persianas.
-- controlar consumo de energia.
+- Controlar consumo de energia.
+
+
+
+###Referencias:
+https://www.mundodaeletrica.com.br/domotica-o-que-e-quais-as-vantagens/
+

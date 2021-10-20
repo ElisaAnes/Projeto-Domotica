@@ -1,4 +1,4 @@
-# Projeto Integrador II - Elisa Anes Romero
+# Projeto Integrador II - Domótica
 
 INTRODUCAO
 

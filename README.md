@@ -15,5 +15,5 @@ Nos dias atuais o tempo está cada vez mais escasso, as pessoas querem estar em 
 
 
 ###Referencias:
-https://www.mundodaeletrica.com.br/domotica-o-que-e-quais-as-vantagens/
+MUNDO DA ELETRICA. Domótica – O que é e quais as vantagens! Disponível em: https://www.mundodaeletrica.com.br/domotica-o-que-e-quais-as-vantagens/ . Acesso em: 19 out. 2021.
 

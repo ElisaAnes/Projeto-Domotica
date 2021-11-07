@@ -12,5 +12,4 @@
 ### Modelo Planta Baixa da Maquete <h3>
   Abaixo temos a planta da maquete que será de dois andares
   
-![Planta Baixa](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.decoracaoeprojetos.com.br%2Fplantas-de-casas-com-medidas-gratis%2F&psig=AOvVaw1fLqVzQ7RxNc7mSSO8AFP_&ust=1636406003307000&source=images&cd=vfe&ved=0CAsQjRxqGAoTCLilw8aVh_QCFQAAAAAdAAAAABDuAQ
-)
+![Planta Baixa](https://github.com/ElisaAnes/Projeto-Domotica/blob/main/Plantas-de-Casas-de-Dois-Andares.jpg)

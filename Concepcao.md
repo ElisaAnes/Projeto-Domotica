@@ -21,4 +21,4 @@
 ![Planta Baixa](https://github.com/ElisaAnes/Projeto-Domotica/blob/main/Plantas-de-Casas-de-Dois-Andares.jpg)
   
   #### Referências <h4>
-  MUNDO DAS TRIBOS. Domótica – Planta de Casas de dois andares. Disponível em: https://www.mundodastribos.com/plantas-de-casas-de-dois-andares.html . Acesso em: 6 nov. 2021.
+  MUNDO DAS TRIBOS. Planta de Casas de dois andares. Disponível em: https://www.mundodastribos.com/plantas-de-casas-de-dois-andares.html . Acesso em: 6 nov. 2021.

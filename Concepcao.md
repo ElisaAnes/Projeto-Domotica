@@ -1,7 +1,13 @@
 # Concepção do Projeto: <h1>
   
+## Requisitos <h2>
+  Realizar uma maquete de uma casa e nela aplicar a serviço de Domótica, automatizando diversos processos, como ligar luzes em diferentes comodos, controlar a temperatura e umidade do ar, monitorar se há vazamento de gás e abrir o portão da garagem de forma inteligente, e para facilitar ainda mais a vida dos moradores, eles disponibilizarao de uma interface intuitiva para interacao.
+  
 ## Objetivo <h2>
-  Realizar uma maquete de uma casa e nela aplicar a serviço de Domótica, automatizando diversos processos, como ligar luzes em diferentes comodos, controlar a temperatura e umidade do ar, monitorar se há vazamento de gás e abrir o portão da garagem de forma inteligente.
+  Os Objetivos sao: 
+  - Realizar uma maquete semelhante aos exemplos abaixo;
+  - Implementar os requisitos impostos acima;
+  - Conseguir controlar a casa atraves de uma interface intuitiva.
 
 ### Modelo para maquete <h3>
   Abaixo temos um modelo de Casa que servirá de inspriração para maquete:

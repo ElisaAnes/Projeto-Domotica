@@ -1,7 +1,7 @@
 # Concepção do Projeto: <h1>
   
 ## Requisitos <h2>
-  Realizar um projeto de Domótica para uma casa, automatizando diversos processos, como ligar luzes em diferentes comodos, controlar a temperatura e umidade do ar, monitorar se há vazamento de gás, monitorar se ha tentativa de invasao e abrir o portão da garagem de forma inteligente, e para facilitar ainda mais a vida dos moradores, eles disponibilizarao de uma interface intuitiva para interacao em seu Smartphone. 
+  Realizar um projeto de Domótica para uma casa, automatizando diversos processos, como ligar luzes em diferentes comodos, controlar a temperatura e umidade do ar, monitorar se há vazamento de gás, monitorar se ha tentativa de invasao e abrir o portão da garagem de forma inteligente, e para facilitar ainda mais a vida dos moradores, eles disponibilizarao de uma interface intuitiva para interacao em seu Notebook. 
   
 ### Componentes que serão utilizados: <h3>
  
@@ -23,6 +23,7 @@
   Os Objetivos sao: 
   - Realizar uma maquete semelhante aos exemplos abaixo;
   - Portão inteligente: quando o carro "cadastrado" chegar perto do portão, ele abrirá automaticamente, sem a necessidade de apertar o botao, depois que o carro passar, o portão fechará. Com o sensor de cor vamos simular uma inteligencia artificial, então a placa do carro cadastrado terá a cor x, o sensor identificará a cor x e abrirá o portão. Quando o portão abre, teremos um sensor de presença e movimento que manterá o portão aberto enquanto receber sinal, quando o carro passar pelo portão o sensor de presença nao terá mais sinal e então o portão fechará.
+  - Casa em modo soneca: quando atingir 21 horas a casa entrará em modo soneca automaticamente, isso significa que a luminosidade da casa irá diminuir, para que a familia se prepare para dormir. Isso será feito através da programação do arduino (essa função pode ser desativada manualmente).
   - Conseguir controlar a casa atraves de uma interface intuitiva.
   - Receber notificacoes no Smartphone se algo acontecer, como invasao, vazamento de gas, esquecimento de luzes acessas.
 

@@ -22,7 +22,7 @@
 ## Objetivo <h2>
   Os Objetivos sao: 
   - Realizar uma maquete semelhante aos exemplos abaixo;
-  - Implementar os requisitos impostos acima;
+  - Portão inteligente: quando o carro "cadastrado" chegar perto do portão, ele abrirá automaticamente, sem a necessidade de aperta o botao, depois que o carro passar, o portão fechará. Com o sensor de cor vamos simular uma inteligencia artificial, então a placa do carro cadastrado terá a cor x, o sensor identificará a cor x e abrirá o portão. Quando o portão abre, teremos um sensor de presença e movimento que manterá o portão aberto enquanto receber sinal, quando o carro passar pelo portão o sensor de presença nao terá mais sinal e então o portão fechará.
   - Conseguir controlar a casa atraves de uma interface intuitiva.
   - Receber notificacoes no Smartphone se algo acontecer, como invasao, vazamento de gas, esquecimento de luzes acessas.
 

@@ -18,7 +18,7 @@
  - Buzzer passivo
  - Display LCD 16×2 I2C Backlight Azul
   
-  
+  ### Diagrama Eletronico
   ![Diagrama Eletronico](https://github.com/ElisaAnes/Projeto-Domotica/blob/main/Screenshot_2.png)
   <br />
   

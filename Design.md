@@ -33,12 +33,12 @@
   
 ![Planta Baixa](https://github.com/ElisaAnes/Projeto-Domotica/blob/main/Plantas-de-Casas-de-Dois-Andares.jpg)
   
-  Central: Sala;
-  Cozinha: Sensor de gás, Buzzer, Servo.
-  Portão: Sensor de cor, Sensor de Presença e Servo.
-  Caixa D'agua: Sensor nível da água.
-  Sala: 1 Sensor de temperatura.
-  Sala parte Externa: 1 Sensor de temperatura.
+  Central: Sala; <br />
+  Cozinha: Sensor de gás, Buzzer, Servo. <br />
+  Portão: Sensor de cor, Sensor de Presença e Servo. <br />
+  Caixa D'agua: Sensor nível da água. <br />
+  Sala: 1 Sensor de temperatura. <br />
+  Sala parte Externa: 1 Sensor de temperatura. <br />
   Parte Externa: Sensor de luminosidade.
  
   

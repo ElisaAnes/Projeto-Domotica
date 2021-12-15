@@ -22,11 +22,6 @@
   ![Diagrama Eletronico](https://github.com/ElisaAnes/Projeto-Domotica/blob/main/Screenshot_2.png)
   <br />
   
-  ### Inspiração do Modelo para maquete <h3>
-  Abaixo temos um modelo de Casa que servirá de inspriração para maquete:
-  
-![Modelo Casa](https://github.com/ElisaAnes/Projeto-Domotica/blob/main/Plantas-de-Casas-de-Dois-Andares%20(1).jpg)
-  <br />
   
 ### Modelo Planta Baixa da Maquete <h3>
   Abaixo temos a planta da maquete que será de dois andares
@@ -39,6 +34,12 @@
   Caixa D'agua: Sensor nível da água. <br />
   Sala: 1 Sensor de temperatura. <br />
   Sala parte Externa: 1 Sensor de temperatura. <br />
-  Parte Externa: Sensor de luminosidade.
+  Parte Externa: Sensor de luminosidade. <br />
+  
+   ### Inspiração do Modelo para maquete <h3>
+  Abaixo temos um modelo de Casa que servirá de inspriração para maquete:
+  
+![Modelo Casa](https://github.com/ElisaAnes/Projeto-Domotica/blob/main/Plantas-de-Casas-de-Dois-Andares%20(1).jpg)
+  <br />
  
   

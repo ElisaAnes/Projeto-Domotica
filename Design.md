@@ -19,7 +19,7 @@
  - Display LCD 16×2 I2C Backlight Azul
   
   ### Diagrama Eletronico
-  ![https://github.com/ElisaAnes/Projeto-Domotica/blob/main/ESQUEM%C3%81TICO_PI_ATUAL.png)
+  ![Esquemático eletrônico](https://github.com/ElisaAnes/Projeto-Domotica/blob/main/ESQUEM%C3%81TICO_PI_ATUAL.png)
   <br />
   
   

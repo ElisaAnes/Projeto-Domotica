@@ -30,10 +30,8 @@
   
   Central: Sala; <br />
   Cozinha: Sensor de gás, Buzzer, Servo. <br />
-  Portão: Sensor de cor, Sensor de Presença e Servo. <br />
+  Portão: Sensor de Presença e Servo. <br />
   Caixa D'agua: Sensor nível da água. <br />
-  Sala: 1 Sensor de temperatura. <br />
-  Sala parte Externa: 1 Sensor de temperatura. <br />
   Parte Externa: Sensor de luminosidade. <br />
   
    ### Inspiração do Modelo para maquete <h3>

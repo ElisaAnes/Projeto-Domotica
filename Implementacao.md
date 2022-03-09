@@ -1,4 +1,5 @@
 # IMPLEMENTAÇÃO 
+## Para a maquete foram utilizados dois tipos de isopores, um mais compactado para fazer a estrutura da casa e um mais simples, para fazer o teto, as repartições da casa e as portas. Foi utilizado também folhas de papel colorido verde (para o chão) e amarelo para o acabamento das janelas.
 ### Abaixo temos a parte da frente da casa:
 ![FRENTE](https://github.com/ElisaAnes/Projeto-Domotica/blob/main/frente.jpeg)
   <br />

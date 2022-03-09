@@ -22,7 +22,7 @@
   ![PLANTA SUPERIOR](https://github.com/ElisaAnes/Projeto-Domotica/blob/main/planta%20superior.jpeg)
   <br />
   # COM COMPONENTES NA MAQUETE
-  ## Depois de montar toda a parte física da maquete, foi adicionado a parte eletrônica no interior da casa. Para integrar os componentes na casa foi utilizado uma fita isolante.
+  ## Depois de montar toda a parte física da maquete, foi adicionado a parte eletrônica no interior da casa. Para integrar os componentes na casa foi utilizado uma fita isolante. Todos os sensores foram testados antes de integrados.
   ![FRENTE COM COMPONENTE](https://github.com/ElisaAnes/Projeto-Domotica/blob/main/FRENTE%20COM%20COMPONENTES.jpeg)
   <br />
   ### Logo na frente pode-se visualizar dois componentes, o sensor de presença e o servo motor que abre a garagem.

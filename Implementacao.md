@@ -21,4 +21,14 @@
   ### Abaixo temos a planta superior:
   ![PLANTA SUPERIOR](https://github.com/ElisaAnes/Projeto-Domotica/blob/main/planta%20superior.jpeg)
   <br />
-  
+  # COM COMPONENTES NA MAQUETE
+  ## Depois de montar toda a parte física da maquete, foi adicionado a parte eletrônica no interior da casa. Para integrar os componentes na casa foi utilizado uma fita isolante.
+  ![FRENTE COM COMPONENTE](https://github.com/ElisaAnes/Projeto-Domotica/blob/main/FRENTE%20COM%20COMPONENTES.jpeg)
+  <br />
+  ### Logo na frente pode-se visualizar dois componentes, o sensor de presença e o servo motor que abre a garagem.
+  ![CIMA COM COMPONENTE](https://github.com/ElisaAnes/Projeto-Domotica/blob/main/DE%20CIMA%20COM%20COMPONENTES.jpeg)
+  <br />
+  ## De cima pode-se observar todas a ligações eletrônicas no arduino e na protoboard, assim como os leds nas paredes e os restantes sensores.
+  ![ATRAS COM COMPONENTE](https://github.com/ElisaAnes/Projeto-Domotica/blob/main/PARTE%20DE%20TRAS%20COM%20COMPONENTES.jpeg)
+  <br />
+  ## Por fim, a parte de trás da casa, onde encontra-se a cozinha no andar de baixo e os dois quartos no andar de cima. Na coznha é possível ver a porta que está integrada no sistema de segurança para vazamento de gás através do servo motor.

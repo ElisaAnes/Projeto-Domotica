@@ -32,5 +32,7 @@
   ![ATRAS COM COMPONENTE](https://github.com/ElisaAnes/Projeto-Domotica/blob/main/PARTE%20DE%20TRAS%20COM%20COMPONENTES.jpeg)
   <br />
   ## Por fim, a parte de trás da casa, onde encontra-se a cozinha no andar de baixo e os dois quartos no andar de cima. Na coznha é possível ver a porta que está integrada no sistema de segurança para vazamento de gás através do servo motor.
-  # CÓDIGO
   
+  # Código Principal
+
+Para acessar o meu código [**Clique aqui**](https://github.com/ElisaAnes/Projeto-Domotica/blob/main/codigo_final.ino)
